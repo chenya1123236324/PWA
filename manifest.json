@@ -1,6 +1,6 @@
 {
-  "name": "大牛家",
-  "short_name": "大牛家APP",
+  "name": "开心旅游",
+  "short_name": "开心旅游",
   "display": "standalone",
   "start_url": "/",
   "theme_color": "#313131",
